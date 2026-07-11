@@ -8,11 +8,11 @@
 🚀 Aspiring Software Engineer
 </h3>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=neel1202&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/neel1202?logo=github&style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/neel1202?affiliations=OWNER&style=for-the-badge"/>
-</p>
+</p> -->
 
 ---
 
@@ -162,7 +162,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </p>
 
 ---
-
+<!--
 # 🏆 GitHub Achievements
 
 <p align="center">
@@ -170,6 +170,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </p>
 
 ---
+-->
 
 # 📈 Contribution Graph
 
@@ -251,7 +252,7 @@ public:
 </p>
 
 ---
-
+<!--
 # ☕ Random Dev Quote
 
 <p align="center">
@@ -261,7 +262,7 @@ public:
 </p>
 
 ---
-
+-->
 # 👀 Profile Visitors
 
 <p align="center">
