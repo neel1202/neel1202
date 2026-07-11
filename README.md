@@ -29,36 +29,99 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 - ⚡ Fun fact: *I enjoy solving bugs almost as much as solving coding problems.*
 
 ---
-
-# 🏆 Competitive Programming
-
-<p align="center">
-
-<a href="https://leetcode.com/u/neel_1202/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://codeforces.com/profile/Neel_Shah12">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
-</a>
-
-<a href="https://www.codechef.com/users/quiet_care_46">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
-</a>
-
-</p>
+## 🧑‍💻 Coding Profiles
 
 <div align="center">
 
-| Platform | Profile |
-|----------|---------|
-| 🟠 LeetCode | [neel_1202](https://leetcode.com/u/neel_1202/) |
-| 🔵 Codeforces | [Neel_Shah12](https://codeforces.com/profile/Neel_Shah12) |
-| 🟤 CodeChef | [quiet_care_46](https://www.codechef.com/users/quiet_care_46) |
+<table>
+<tr>
+
+<td align="center" width="150">
+<a href="https://leetcode.com/u/neel_1202/" target="_blank">
+
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="55"/>
+
+<br>
+
+<b>LeetCode</b>
+
+</a>
+
+</td>
+
+<td align="center" width="150">
+
+<a href="https://codeforces.com/profile/Neel_Shah12" target="_blank">
+
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="55"/>
+
+<br>
+
+<b>Codeforces</b>
+
+</a>
+
+</td>
+
+<td align="center" width="150">
+
+<a href="https://www.codechef.com/users/quiet_care_46" target="_blank">
+
+<img src="https://cdn.simpleicons.org/codechef/5B4638" width="55"/>
+
+<br>
+
+<b>CodeChef</b>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="https://leetcode.com/u/neel_1202/">
+
+<img src="https://img.shields.io/badge/neel__1202-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://codeforces.com/profile/Neel_Shah12">
+
+<img src="https://img.shields.io/badge/Neel__Shah12-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.codechef.com/users/quiet_care_46">
+
+<img src="https://img.shields.io/badge/quiet__care__46-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
----
+<p align="center">
+
+<!-- <b>🔥 600+ Problems Solved • 🏆 Regular Contest Participant • 🚀 Always Improving</b> -->
+
+</p>
 
 # 🌐 Connect With Me
 
@@ -72,7 +135,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:nbshah2007@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
