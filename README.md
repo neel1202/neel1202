@@ -38,43 +38,30 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 <td align="center" width="150">
 <a href="https://leetcode.com/u/neel_1202/" target="_blank">
-
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="55"/>
-
-<br>
-
-<b>LeetCode</b>
-
+<br><b>LeetCode</b>
 </a>
-
 </td>
 
 <td align="center" width="150">
-
 <a href="https://codeforces.com/profile/Neel_Shah12" target="_blank">
-
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="55"/>
-
-<br>
-
-<b>Codeforces</b>
-
+<br><b>Codeforces</b>
 </a>
-
 </td>
 
 <td align="center" width="150">
-
 <a href="https://www.codechef.com/users/quiet_care_46" target="_blank">
-
-<img src="https://cdn.simpleicons.org/codechef/5B4638" width="55"/>
-
-<br>
-
-<b>CodeChef</b>
-
+<img src="https://cdn.simpleicons.org/codechef" width="55"/>
+<br><b>CodeChef</b>
 </a>
+</td>
 
+<td align="center" width="150">
+<a href="https://atcoder.jp/users/Neel_Shah12" target="_blank">
+<img src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" width="55"/>
+<br><b>AtCoder</b>
+</a>
 </td>
 
 </tr>
@@ -82,33 +69,27 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 <tr>
 
 <td align="center">
-
 <a href="https://leetcode.com/u/neel_1202/">
-
 <img src="https://img.shields.io/badge/neel__1202-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
 </a>
-
 </td>
 
 <td align="center">
-
 <a href="https://codeforces.com/profile/Neel_Shah12">
-
 <img src="https://img.shields.io/badge/Neel__Shah12-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-
 </a>
-
 </td>
 
 <td align="center">
-
 <a href="https://www.codechef.com/users/quiet_care_46">
-
 <img src="https://img.shields.io/badge/quiet__care__46-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-
 </a>
+</td>
 
+<td align="center">
+<a href="https://atcoder.jp/users/Neel_Shah12">
+<img src="https://img.shields.io/badge/Neel__Shah12-222222?style=for-the-badge"/>
+</a>
 </td>
 
 </tr>
@@ -118,11 +99,10 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </div>
 
 <p align="center">
-
-<!-- <b>🔥 600+ Problems Solved • 🏆 Regular Contest Participant • 🚀 Always Improving</b> -->
-
+<b>🔥 1500+ Problems Solved •  400+DAYS streaks on codeforces•🏆 Regular Contest Participant • 🚀 Always Improving< /b>
 </p>
 
+----
 # 🌐 Connect With Me
 
 <p align="center">
