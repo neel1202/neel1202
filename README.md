@@ -88,3 +88,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neel1202&style=for-the-badge&color=00F0FF&label=PROFILE+VISITS"/>
 </p>
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neel1202/neel1202/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neel1202/neel1202/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/neel1202/neel1202/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
