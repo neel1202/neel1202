@@ -181,7 +181,7 @@ public:
     string goal = "Software Development Engineer";
 };
 ```
-
+<!--
 ---
 
 # 📚 Currently Learning
@@ -201,6 +201,7 @@ public:
 </p>
 
 ---
+-->
 # 🐍 Contribution Snake
 
 <p align="center">
