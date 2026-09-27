@@ -99,7 +99,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </div>
 
 <p align="center">
-<b>🔥 1500+ Problems Solved •  400+DAYS streaks on codeforces•🏆 Regular Contest Participant • 🚀 Always Improving< /b>
+<b>🔥 1700+ Problems Solved •  500+DAYS streaks on codeforces•🏆 Regular Contest Participant • 🚀 Always Improving< /b>
 </p>
 
 ----
